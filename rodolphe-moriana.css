@@ -1,0 +1,54 @@
+body {background-color: salmon;
+
+        }
+.flex {
+    display:flex;
+        }
+.titre {color: black;
+        text-align: center;
+        text-decoration: underline;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: xx-large;
+        margin-top: 40px;
+            }
+.portrait {margin-left: 40px;
+            }
+.liste {color: whitesmoke;
+        text-align: left;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: medium;
+        align-items: right;
+        margin-left: 72%;
+        margin-top: 5%;
+            }
+.soustitre {color: black;
+            text-decoration: underline;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: x-large;
+            margin-left: 40px;
+                }
+.texte {font-family: Arial, Helvetica, sans-serif;
+        font-size: medium;
+        margin-left: 10px;
+        color: whitesmoke;
+            }
+.border {border: 4px outset black;
+         margin-left: 50px;
+            }
+.inti {text-decoration: underline;
+       font-weight: bold;
+       font-family: Arial, Helvetica, sans-serif;
+       font-size: large;
+       color: whitesmoke;
+       margin-left: 10px;
+        }
+.ita {font-style:italic;
+      color: whitesmoke;
+      margin-left: 15px;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: medium;
+        }
+.lien1 {margin-left: 25%;
+        }
+.lien2 {margin-left: 40%;
+        }

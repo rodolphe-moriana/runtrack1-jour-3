@@ -1,0 +1,68 @@
+body {          background-image: url("https://i.pinimg.com/originals/68/2a/a8/682aa81619f08a3e70882caabc02bf1a.jpg") ;
+
+        }
+
+.flex {
+                display:flex;
+        }
+
+.titre {        color: rgba(255, 255, 255, 0.822);
+                text-align: left;
+                text-decoration: underline;
+                font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                font-size: xx-large;
+                margin-top: 40px;
+                margin-left: 40px;
+            }
+
+.portrait {     margin-left: 40px;
+            }
+
+.liste {        color: rgba(255, 255, 255, 0.822);
+                text-align: left;
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: medium;
+                align-items: right;
+                margin-left: 72%;
+                margin-top: 5%;
+        }
+
+.soustitre {    color: whitesmoke;
+                text-decoration: underline;
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: x-large;
+                margin-left: 40px;
+                margin-top: 40px;
+        }
+
+.texte {        font-family: Arial, Helvetica, sans-serif;
+                font-size: medium;
+                margin-left: 10px;
+                color: whitesmoke;
+            }
+
+.border {       border: 4px outset white;
+                border-radius: 5px;
+                margin-left: 50px;
+                text-shadow: 2px 2px 4px white;
+                box-shadow: 4px 4px 0px grey;
+            }
+.inti {         text-decoration: underline;
+                font-weight: bold;
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: large;
+                color: whitesmoke;
+                margin-left: 10px;
+        }
+.ita {          font-style:italic;
+                color: whitesmoke;
+                margin-left: 15px;
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: medium;
+        }
+
+.lien1 {        margin-left: 40%;
+        }
+        
+.lien2 {        margin-left: 10%;
+        }
